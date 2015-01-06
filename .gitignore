@@ -1,4 +1,8 @@
-target
-*.ipr
+*.*~
+*.ids
 *.iml
-*.orig
+*.ipr
+*.iws
+*.war
+target
+.idea/
